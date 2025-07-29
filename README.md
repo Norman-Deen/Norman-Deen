@@ -6,10 +6,7 @@
 
 💡 Skills: .NET, SvelteKit, TypeScript, REST API, 3ds Max, Three.js, WebGL
 
-🛠️ Projects:
-- [CaptchaSys (AI-based CAPTCHA system)](https://github.com/Norman-Deen/CaptchaSysFrontSmart)
-- [KneeApp – Sports platform (LIA internship)](https://github.com/your-repo)
-- [RSTOQ enhancements](https://github.com/your-repo)
+📌 Feel free to explore my pinned projects below.
 
 📫 Contact me:
 - 💼 [LinkedIn](https://www.linkedin.com/in/nour-tinawi)
