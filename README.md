@@ -1,16 +1,20 @@
-# 👋 Hello, I'm Nour
+# 👋 Hi, I'm Nour
 
-🎓 .NET Web Developer | 🎨 Senior 3D Artist | 🌐 Full-Stack & Front-End (3D)
+🎨 Senior 3D Artist turned Full-Stack Web Developer  
+🌐 Specialized in creative front-end, WebGL, and immersive UI design
 
-🚀 I love building interactive web apps with clean UI and immersive 3D.
+🚀 I build interactive web apps that combine clean code with powerful visuals.
 
-💡 Skills: .NET, SvelteKit, TypeScript, REST API, 3ds Max, Three.js, WebGL
+💡 Tech I use: .NET, SvelteKit, TypeScript, REST APIs, Three.js, WebGL, 3ds Max
 
-📌 Feel free to explore my pinned projects below.
+💼 Open to roles such as:  
+Frontend Developer | WebGL Developer | Creative Developer | UI Engineer | Visual Prototyper | Junior Game Developer
 
-📫 Contact me:
-- 💼 [LinkedIn](https://www.linkedin.com/in/nour-tinawi)
+📌 Check out my pinned projects below — built with passion and precision.
+
+📫 Let's connect:  
+- 💼 [LinkedIn](https://www.linkedin.com/in/nour-tinawi)  
 - 🌐 [Portfolio](https://www.pure-art.co)
 
 ---
-> I enjoy building tools that look good and *feel* even better 😎
+> I create tools that look great — and feel even better to use.
