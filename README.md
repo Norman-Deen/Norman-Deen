@@ -1,20 +1,32 @@
-# 👋 Hi, I'm Nour
+👋 Hi, I'm Nour
 
-🎨 Senior 3D Artist turned Full-Stack Web Developer  
-🌐 Specialized in creative front-end, WebGL, and immersive UI design
+🚀 Real-Time Web 3D Systems Engineer  
+🎨 20+ years in 3D Visualization → now building performance-driven WebGL systems
 
-🚀 I build interactive web apps that combine clean code with powerful visuals.
+I don’t just build 3D scenes —  
+I design structured, scalable real-time systems that work under real-world constraints.
 
-💡 Tech I use: .NET, SvelteKit, TypeScript, REST APIs, Three.js, WebGL, 3ds Max
+💡 What I focus on:
+• High-performance WebGL architecture (Three.js)
+• Adaptive loading systems & runtime decision logic
+• Mobile-first performance (60 FPS targets)
+• Clean, system-driven front-end engineering
 
-💼 Open to roles such as:  
-Frontend Developer | WebGL Developer | Creative Developer | UI Engineer | Visual Prototyper | Junior Game Developer
+🧠 Tech:
+Three.js · WebGL · TypeScript · SvelteKit · .NET · REST APIs · 3ds Max
 
-📌 Check out my pinned projects below — built with passion and precision.
+🏗️ Highlight:
+Nordic RT — a real-time architectural system  
+• ~2.5s initial load  
+• Stable 60 FPS on mobile  
+• Phase-based loading + adaptive performance system  
 
-📫 Let's connect:  
-- 💼 [LinkedIn](https://www.linkedin.com/in/nour-tinawi)  
-- 🌐 [Portfolio](https://www.pure-art.co)
+💼 Open to:
+Frontend | WebGL | Creative Dev | UI Engineer  
+(Performance-driven & real-time systems)
 
----
-> I create tools that look great — and feel even better to use.
+📌 Check pinned projects below
+
+📫 Connect:
+💼 LinkedIn  
+🌐 Portfolio
