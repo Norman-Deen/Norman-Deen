@@ -29,5 +29,5 @@ Frontend | WebGL | Creative Dev | UI Engineer
 
 📫 Connect:
 
-- 💼 [LinkedIn](https://your-linkedin-url)
-- 🌐 [Portfolio](https://your-portfolio-url)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nour-tinawi)
+- 🌐 [Portfolio](https://pure-art.co)
