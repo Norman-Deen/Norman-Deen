@@ -28,5 +28,6 @@ Frontend | WebGL | Creative Dev | UI Engineer
 📌 Check pinned projects below
 
 📫 Connect:
-💼 LinkedIn  
-🌐 Portfolio
+
+- 💼 [LinkedIn](https://your-linkedin-url)
+- 🌐 [Portfolio](https://your-portfolio-url)
