@@ -46,5 +46,5 @@ Frontend · WebGL · Creative Development · UI Engineering
 
 📫 Connect
 
-💼 LinkedIn: www.linkedin.com/in/nour-tinawi 
-🌐 Portfolio: https://pure-art.co  
+💼 [LinkedIn](https://www.linkedin.com/in/nour-tinawi)  
+🌐 [Portfolio](https://pure-art.co)
