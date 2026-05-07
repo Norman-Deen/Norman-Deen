@@ -2,17 +2,17 @@
 
 ---
 
-👋 Hi, I'm Nour
+ Hi, I'm Nour
 
-🚀 Real-Time Web 3D Systems Engineer  
-🎨 20+ years in 3D Visualization → now building performance-driven WebGL systems
+ Real-Time Web 3D Systems Engineer  
+ 20+ years in 3D Visualization → now building performance-driven WebGL systems
 
 I don’t just build 3D scenes —  
 I design structured, scalable real-time systems that perform under real-world constraints.
 
 ---
 
-💡 Focus
+ Focus
 
 • High-performance WebGL architecture (Three.js)  
 • Adaptive loading systems & runtime decision logic  
@@ -21,13 +21,13 @@ I design structured, scalable real-time systems that perform under real-world co
 
 ---
 
-🧠 Tech Stack
+ Tech Stack
 
 Three.js · WebGL · TypeScript · SvelteKit · .NET · REST APIs · 3ds Max  
 
 ---
 
-🏗️ Featured Work
+ Featured Work
 
 **Nordic RT** — Real-time architectural system  
 
@@ -37,14 +37,14 @@ Three.js · WebGL · TypeScript · SvelteKit · .NET · REST APIs · 3ds Max
 
 ---
 
-💼 Open to
+ Open to
 
 Frontend · WebGL · Creative Development · UI Engineering  
 (Performance-driven, real-time systems)
 
 ---
 
-📌 Explore my pinned projects below
+ Explore my pinned projects below
 
 ---
 
