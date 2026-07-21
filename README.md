@@ -1,4 +1,4 @@
-![Header](Stund-ThreeJs-02.jpg)
+![Header](Linkedin-02.png)
 
 ---
 
