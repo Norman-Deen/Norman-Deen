@@ -1,48 +1,70 @@
-![Nourtin — real-time 3D and web development](Linkedin-02.png)
-
 # Nour Altinawi
 
-**Real-Time 3D Systems Engineer & Full-Stack Developer**  
-Three.js · WebGL · TypeScript · Interactive 3D · Digital Twin Visualization
+### Real-Time 3D / Frontend Developer
 
-I combine more than 20 years of professional 3D visualization experience with modern web development. I build browser-based 3D applications, product configurators, industrial visualization prototypes, and interfaces connected to APIs and application state.
+I build browser-based 3D applications with **Three.js / WebGL**, connecting interactive scenes to interfaces, application state, and data.
 
-Based in Sweden. Founder of [Nourtin](https://nourtin.com/).
+I bring **20+ years of professional 3D visualization experience**. My more recent work focuses on frontend and .NET full-stack development. Based in Sweden; founder of Nourtin.
 
-## Selected real-time 3D work
+[Selected projects](#selected-projects) · [Public code](#public-code) · [LinkedIn](https://www.linkedin.com/in/nour-tinawi) · [Contact](mailto:contact@nourtin.com)
 
-| Project | Engineering focus | Explore |
+## Selected projects
+
+### Nordic RT · Architectural exploration
+
+**Challenge:** Bring material comparison, model inspection, and architectural context into one browser interface.
+
+**My contribution:** Developed the 3D viewer and its frontend interactions: coordinated camera views, material controls, Clay inspection with model dimensions, section navigation, and contextual detail panels. Refined desktop and touch layouts so the tools remain usable alongside the model.
+
+**Stack:** Three.js / WebGL, JavaScript, Vite, HTML, CSS.
+
+<a href="https://nordic-rt.nourtin.com/"><img src="images/nordic-rt.webp" width="520" alt="Nordic RT Clay inspection with model dimensions, detail points and viewer controls"></a>
+
+[Live application](https://nordic-rt.nourtin.com/) · [Case study and screenshots](https://github.com/Norman-Deen/nordic-rt-architectural-case-study)
+
+### WindTwin · Industrial visualization prototype
+
+**Challenge:** Connect asset selection in a 3D environment to monitoring and maintenance workflows.
+
+**My contribution:** Developed the wind-farm environment, responsive monitoring interface, and simulated fault-to-work-order-to-service workflow. Integrated live weather context and connected asset selection to charts and condition panels.
+
+**Stack:** Three.js / WebGL, TypeScript, Vite, Chart.js, Open-Meteo, HTML, CSS.
+
+<a href="https://windtwin.nourtin.com/"><img src="images/windtwin.webp" width="520" alt="WindTwin showing wind-farm assets alongside weather, production and fleet information"></a>
+
+[Live application](https://windtwin.nourtin.com/) · [Case study and screenshots](https://github.com/Norman-Deen/windtwin-case-study)
+
+*Prototype: weather is live; operational telemetry and maintenance are simulated. No physical turbine or production SCADA connection.*
+
+**Source availability:** These two repositories contain public case studies, not application source. The live applications demonstrate the interactions; the case studies describe scope and contribution.
+
+### More browser 3D work
+
+| Project | Development focus | Links |
 | --- | --- | --- |
-| **WindTwin** | Operational wind-farm prototype: live weather, simulated telemetry, alerts, work orders, maintenance dispatch, and adaptive rendering | [Live demo](https://windtwin.nourtin.com/) · [Engineering overview](case-studies/windtwin.md) · [Full case study](https://nourtin.com/pages/Subpages/windtwin-case-study.html) |
-| **Nordic RT** | Architectural visualization, phased loading, material interaction, and device-aware performance | [Live demo](https://nordic-rt.nourtin.com/) · [Case study repository](https://github.com/Norman-Deen/nordic-rt-architectural-case-study) |
-| **PureDrive RT** | Automotive configuration, material systems, camera transitions, and rendering optimization | [Live demo](https://puredrive-rt.nourtin.com/) · [Case study repository](https://github.com/Norman-Deen/puredrive-rt-case-study) |
-| **PureNordStudio** | Interactive furniture, material exploration, studio capture, and AI-assisted visualization workflows | [Live demo](https://purenordstudio.nourtin.com/) · [Case study repository](https://github.com/Norman-Deen/purenordstudio-case-study) |
-| **ModernStillness** | Cinematic WebGL environment, baked lighting, particles, audio, and adaptive quality | [Live demo](https://modernstillness.nourtin.com/) · [Engineering overview](case-studies/modernstillness.md) |
+| **PureDrive RT** | Automotive configuration, material interaction, lighting controls, and camera transitions. | [Live](https://puredrive-rt.nourtin.com/) / [Case study](https://github.com/Norman-Deen/puredrive-rt-case-study) |
+| **PureNordStudio** | Furniture material selection, Clay/dimension inspection, image capture, and AI-assisted visualization. | [Live](https://purenordstudio.nourtin.com/) / [Case study](https://github.com/Norman-Deen/purenordstudio-case-study) |
+| **ModernStillness** | Cinematic WebGL environment and interactive presentation. | [Live](https://modernstillness.nourtin.com/) / [Overview](case-studies/modernstillness.md) |
 
-WindTwin uses live weather context alongside simulated operational data; it is not connected to physical turbines or a production SCADA system. Case study repositories document the work and do not contain the complete application source or licensed assets.
+## Public code
 
-## Full-stack development
+Source repositories you can inspect directly:
 
-My six-month industry placement at **Meta Bytes** involved SvelteKit, TypeScript, Go, Supabase, REST APIs, and cloud deployment workflows. I completed my .NET full-stack qualification at **EC Utbildning (2023–2025)**.
+- **AI Motion CAPTCHA** — graduation research prototype combining a JavaScript frontend, .NET 8 API, behavioral analysis, and ML.NET. [Backend source](https://github.com/Norman-Deen/CaptchaSysBackSmart) / [Frontend source](https://github.com/Norman-Deen/CaptchaSysFrontSmart).
+- **[SiliconDesign](https://github.com/Norman-Deen/SiliconDesign)** — ASP.NET Core MVC, Identity, Entity Framework Core, and Web API coursework.
+- **[Crito React](https://github.com/Norman-Deen/crito-React-Js)** — React frontend coursework.
+- **[Rika](https://github.com/Norman-Deen/Rika)** — collaborative .NET and Azure Functions training project.
 
-Public source examples:
+These earlier educational projects document my web-development foundation. My current focus is browser-based 3D and frontend application development.
 
-- **[AI Motion CAPTCHA — API](https://github.com/Norman-Deen/CaptchaSysBackSmart)** and **[frontend](https://github.com/Norman-Deen/CaptchaSysFrontSmart)**: graduation research prototype combining JavaScript, .NET 8, behavioral analysis, and ML.NET.
-- **[SiliconDesign](https://github.com/Norman-Deen/SiliconDesign)**: ASP.NET Core MVC, Identity, Entity Framework Core, and Web API coursework.
-- **[Crito React](https://github.com/Norman-Deen/crito-React-Js)**: React frontend coursework.
-- **[Rika](https://github.com/Norman-Deen/Rika)**: collaborative .NET and Azure Functions training project.
+## Technical background
 
-These educational repositories represent my development foundation; the real-time 3D projects above represent my current focus.
-
-## Technical focus
-
-- **Real-time graphics:** Three.js, WebGL, optimized assets, adaptive quality, responsive 3D interaction.
+- **Browser 3D:** Three.js, WebGL, materials, lighting, camera interaction, and model inspection.
 - **Frontend:** TypeScript, JavaScript, SvelteKit, React, HTML, CSS, Vite.
-- **Backend and data:** C#, .NET, Node.js, REST APIs, SQL, Supabase.
-- **Delivery and visual production:** Git, GitHub Actions, Docker, 3ds Max, rendering and asset pipelines.
+- **Application integration:** C#, .NET, Node.js, REST APIs, SQL, Supabase.
 
-## Contact
+My six-month industry placement at **Meta Bytes** involved SvelteKit, TypeScript, Go, Supabase, and REST APIs. I completed my **.NET full-stack qualification at EC Utbildning (2023–2025)**.
 
-[Portfolio](https://nourtin.com/) · [LinkedIn](https://www.linkedin.com/in/nour-tinawi) · [Email](mailto:contact@nourtin.com)
+Open to **Real-Time 3D, Three.js / WebGL, and Frontend Developer** roles.
 
-Open to roles in **Three.js / WebGL, Real-Time 3D, Frontend Graphics, Industrial Visualization, and Full-Stack Development**.
+[Visual portfolio: Nourtin](https://nourtin.com/) · [LinkedIn](https://www.linkedin.com/in/nour-tinawi) · [Email](mailto:contact@nourtin.com)
