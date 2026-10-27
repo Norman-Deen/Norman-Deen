@@ -8,7 +8,7 @@ I build browser-based 3D applications with **Three.js / WebGL**, connecting inte
 
 I bring **20+ years of professional 3D visualization experience**. My more recent work focuses on frontend and .NET full-stack development. Based in Sweden; founder of Nourtin.
 
-[Selected projects](#selected-projects) · [Public code](#public-code) · [LinkedIn](https://www.linkedin.com/in/nour-tinawi) · [Contact](mailto:contact@nourtin.com)
+[Selected projects](#selected-projects) · [Public code](#public-code) · [LinkedIn](https://www.linkedin.com/in/nour-tinawi) · [Contact](mailto:nourtin@outlook.com)
 
 ## Selected projects
 
@@ -78,4 +78,4 @@ My six-month industry placement at **Meta Bytes** involved SvelteKit, TypeScript
 
 Open to **Real-Time 3D, Three.js / WebGL, and Frontend Developer** roles.
 
-[Visual portfolio: Nourtin](https://nourtin.com/) · [LinkedIn](https://www.linkedin.com/in/nour-tinawi) · [Email](mailto:contact@nourtin.com)
+[Visual portfolio: Nourtin](https://nourtin.com/) · [LinkedIn](https://www.linkedin.com/in/nour-tinawi) · [Email](mailto:nourtin@outlook.com)
