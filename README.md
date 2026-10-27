@@ -1,3 +1,5 @@
+![Nourtin - real-time 3D and web development](Linkedin-02.png)
+
 # Nour Altinawi
 
 ### Real-Time 3D / Frontend Developer
