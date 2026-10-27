@@ -38,13 +38,22 @@ I bring **20+ years of professional 3D visualization experience**. My more recen
 
 *Prototype: weather is live; operational telemetry and maintenance are simulated. No physical turbine or production SCADA connection.*
 
-**Source availability:** These two repositories contain public case studies, not application source. The live applications demonstrate the interactions; the case studies describe scope and contribution.
+### PureDrive RT · Automotive configuration and inspection
+
+**My contribution:** Developed vehicle customization controls, Clay inspection with dimension annotations, longitudinal Slice exploration, preset camera transitions, and responsive interaction.
+
+**Stack:** Three.js / WebGL, JavaScript, HTML, CSS, GSAP.
+
+<a href="https://puredrive-rt.nourtin.com/"><img src="images/puredrive-slice.webp" width="520" alt="PureDrive RT longitudinal vehicle slice in Clay mode, with dimension annotations and detail points"></a>
+
+[Live application](https://puredrive-rt.nourtin.com/) · [Case study and screenshots](https://github.com/Norman-Deen/puredrive-rt-case-study)
+
+**Source availability:** The featured project repositories contain public case studies, not application source. The live applications demonstrate the interactions; the case studies describe scope and contribution.
 
 ### More browser 3D work
 
 | Project | Development focus | Links |
 | --- | --- | --- |
-| **PureDrive RT** | Automotive configuration, material interaction, lighting controls, and camera transitions. | [Live](https://puredrive-rt.nourtin.com/) / [Case study](https://github.com/Norman-Deen/puredrive-rt-case-study) |
 | **PureNordStudio** | Furniture material selection, Clay/dimension inspection, image capture, and AI-assisted visualization. | [Live](https://purenordstudio.nourtin.com/) / [Case study](https://github.com/Norman-Deen/purenordstudio-case-study) |
 | **ModernStillness** | Cinematic WebGL environment and interactive presentation. | [Live](https://modernstillness.nourtin.com/) / [Overview](case-studies/modernstillness.md) |
 
